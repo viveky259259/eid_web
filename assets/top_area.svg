@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="219.371" height="299.836" viewBox="0 0 219.371 299.836">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-4.676" y1="2.13" x2="-3.677" y2="2.13" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#833fba"/>
+      <stop offset="1" stop-color="#6c4d77"/>
+    </linearGradient>
+  </defs>
+  <g id="NAVIGATION_AREA" data-name="NAVIGATION AREA" transform="translate(-2095.592)">
+    <path id="Union_1" data-name="Union 1" d="M2107.34,58.387c18.192,38.578,70.995,22.269,92.095,56.08,16.709,26.775,2.813,57.511,9.492,82.086,6.671,24.547,33.573,32.384,62.181,48.6,33.762,19.134,24.127,45.309,43.855,54.685L2314.775,0,2095.592.137S2095.559,33.4,2107.34,58.387Z" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
